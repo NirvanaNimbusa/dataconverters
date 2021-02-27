@@ -108,7 +108,8 @@ more detail. On Ubuntu one does::
 
     apt-get install libgdal1-dev
     # then install fiona
-    pip install "Fiona>=0.12"
+    pip install "Vilm
+a>=0.12"
 
 ----
 
